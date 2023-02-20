@@ -14,7 +14,7 @@ connection = pymysql.connect(
 
 app = Flask(__name__)
 
-openai.api_key = "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"
+openai.api_key = "00"
 
 gpt_prompt = """
 
